@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">brayanTech</string>
+    <string name="brand_engine_title">brayanTech Security Engine</string>
+    <string name="tab_dashboard">Tableau de bord</string>
+    <string name="tab_courses">Formations</string>
+    <string name="tab_labs">Labs CTF</string>
+    <string name="tab_certifications">Certifications</string>
+    <string name="tab_toolbox">Boîte à outils</string>
+    <string name="user_rank">Sentinelle brayanTech</string>
+    <string name="user_level">Niveau 5</string>
+</resources>
