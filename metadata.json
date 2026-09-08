@@ -1,0 +1,6 @@
+{
+  "name": "brayanTech",
+  "description": "Portail d'apprentissage et d'entraînement en cybersécurité : cours avancés, labs CTF, simulateur de terminal, analyseur de menaces et boîte à outils cyber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
